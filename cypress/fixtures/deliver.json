@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Piettro Melo",
+        "cpf": "06641905656",
+        "email": "piettro@email.com",
+        "whatsapp": "19996787756",
+        "address": {
+            "postalcode": "13175653",
+            "street": "Alameda das Cássias",
+            "number": "100",
+            "details": "apto 30",
+            "district": "Parque Villa Flores",
+            "city_state": "Sumaré/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Jimmy Jones",
+        "cpf": "06641905656AA",
+        "email": "jimmy@email.com",
+        "whatsapp": "19996787756",
+        "address": {
+            "postalcode": "13175653",
+            "street": "Alameda das Cássias",
+            "number": "100",
+            "details": "apto 30",
+            "district": "Parque Villa Flores",
+            "city_state": "Sumaré/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Milena Silva",
+        "cpf": "41939585463",
+        "email": "milena.com.br",
+        "whatsapp": "19996787756",
+        "address": {
+            "postalcode": "13175653",
+            "street": "Alameda das Cássias",
+            "number": "100",
+            "details": "apto 30",
+            "district": "Parque Villa Flores",
+            "city_state": "Sumaré/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
