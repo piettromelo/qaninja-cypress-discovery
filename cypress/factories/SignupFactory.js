@@ -14,7 +14,7 @@ export default {
             name: `${firstName} ${lastName}`,
             cpf: cpf.generate(), //gera o cpf dinamico
             email: faker.internet.email(firstName), //monta um email dinamico com o 1°nome
-            whatsapp: '19996787756',
+            whatsapp: '19996787757',
             address: {
                 postalcode: '13175653',
                 street: 'Alameda das Cássias',
